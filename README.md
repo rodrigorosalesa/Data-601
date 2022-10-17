@@ -8,10 +8,10 @@ Calgary, Alberta <br>
 October 19, 2022
 
 #### Instructions
-In order to run our project, <Melbourne_Moguls.ipynb> you will have to have to download in the same folder 3 files:
-- <Melbourne_Moguls.ipynb>
-- <meld_data.csv>
-- <victoria_region.zip>
+In order to run our project, *melbourne_moguls.ipynb* you will have to have to download in the same folder 3 files:
+- [*melbourne_moguls.ipynb*](google.com)
+- [*meld_data.csv*](https://github.com/rodrigorosalesa/Data-601/blob/main/melb_data.csv)
+- [*victoria_region.zip*](https://github.com/rodrigorosalesa/Data-601/blob/main/victoria_region.zip)
 
 No need to unzip the ZIP file, our Python code takes care of that. 
 
