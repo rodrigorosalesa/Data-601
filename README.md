@@ -7,6 +7,8 @@ University of Calgary <br>
 Calgary, Alberta <br>
 October 19, 2022
 
+For more information click on this GitHub [Link](https://github.com/rodrigorosalesa/Data-601).
+
 #### Instructions
 In order to run our project, *melbourne_moguls.ipynb* you will have to download the following 3 files in the same folder:
 - [*melbourne_moguls.ipynb*]()
