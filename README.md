@@ -22,4 +22,4 @@ In order to run our project, *melbourne_moguls.ipynb* you will have to:
   - *melbourne_moguls.html*
   - *ReadMe.md*
   
-  - All the libraries that we used are present in the University of Calgary Hub.
+- All the libraries that we used are present in the University of Calgary Hub.
