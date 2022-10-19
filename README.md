@@ -16,10 +16,9 @@ In order to run our project, *melbourne_moguls.ipynb* you will have to:
   - [*meld_data.csv*](https://github.com/rodrigorosalesa/Data-601/blob/main/melb_data.csv)
   - [*victoria_region.zip*](https://github.com/rodrigorosalesa/Data-601/blob/main/victoria_region.zip)
     - No need to unzip the file, our Python code takes care of that. 
-
-- Dowload the zip file [melbourne_moguls.zip]() and unzip it in your local device. This zip file will contain the following:
-  - *melbourne_moguls.ipynb*
-  - *melbourne_moguls.html*
-  - *ReadMe.md*
+ 
+ - In the file [*melbourne_moguls_python.zip*]() you would be able to find the ipynb file, unzip it on your local device.
+ 
+ - In the file [*melbourne_moguls_html.zip*]() you would be able to find the HTML file, unzip it on your local device.
   
 - All the libraries that we used are present in the University of Calgary Hub.
