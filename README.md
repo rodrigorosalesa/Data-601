@@ -17,8 +17,4 @@ In order to run our project, *melbourne_moguls.ipynb* you will have to download 
 
 No need to unzip the ZIP file, our Python code takes care of that. 
 
-
-ZIP File
-python
-html
-readme
+Additional an HTML File can be found in this [link]().
