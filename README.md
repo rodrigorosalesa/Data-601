@@ -10,11 +10,14 @@ October 19, 2022
 For more information click on this GitHub [Link](https://github.com/rodrigorosalesa/Data-601).
 
 #### Instructions
-In order to run our project, *melbourne_moguls.ipynb* you will have to download the following 3 files in the same folder:
-- [*melbourne_moguls.ipynb*]()
-- [*meld_data.csv*](https://github.com/rodrigorosalesa/Data-601/blob/main/melb_data.csv)
-- [*victoria_region.zip*](https://github.com/rodrigorosalesa/Data-601/blob/main/victoria_region.zip)
+In order to run our project, *melbourne_moguls.ipynb* you will have to:
 
-No need to unzip the ZIP file, our Python code takes care of that. 
+- Dowload both data files
+  - [*meld_data.csv*](https://github.com/rodrigorosalesa/Data-601/blob/main/melb_data.csv)
+  - [*victoria_region.zip*](https://github.com/rodrigorosalesa/Data-601/blob/main/victoria_region.zip)
+    - No need to unzip the file, our Python code takes care of that. 
 
-Additional an HTML File can be found in this [link]().
+- Dowload the zip file [melbourne_moguls.zip]() and unzip it in your local device. This zip file will contain the following:
+  - *melbourne_moguls.ipynb*
+  - *melbourne_moguls.html*
+  - *ReadMe.md*
